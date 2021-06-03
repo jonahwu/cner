@@ -31,3 +31,10 @@ print([(ent.text, ent.label_) for ent in doc1.ents])
 doc1 = nlp1("我今年1001岁") # input sample tex
 print([(ent.text, ent.label_) for ent in doc1.ents])
 
+doc1 = nlp1("我朋友在台泥工作") # input sample tex
+print([(ent.text, ent.label_) for ent in doc1.ents])
+doc1 = nlp1("我朋友在华新科工作") # input sample tex
+print([(ent.text, ent.label_) for ent in doc1.ents])
+doc1 = nlp1("我朋友在台肥工作") # input sample tex
+print([(ent.text, ent.label_) for ent in doc1.ents])
+
