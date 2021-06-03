@@ -37,4 +37,8 @@ doc1 = nlp1("我朋友在华新科工作") # input sample tex
 print([(ent.text, ent.label_) for ent in doc1.ents])
 doc1 = nlp1("我朋友在台肥工作") # input sample tex
 print([(ent.text, ent.label_) for ent in doc1.ents])
+doc1 = nlp1("他很厉害绝对是高手") # input sample tex
+print([(ent.text, ent.label_) for ent in doc1.ents])
+doc1 = nlp1("他真是高手界中的翘楚") # input sample tex
+print([(ent.text, ent.label_) for ent in doc1.ents])
 
