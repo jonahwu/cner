@@ -15,3 +15,6 @@ print([(ent.text, ent.label_) for ent in doc1.ents])
 doc1 = nlp1("我不想只是恋爱而已") # input sample tex
 print([(ent.text, ent.label_) for ent in doc1.ents])
 
+doc1 = nlp1("我就只是想开心而已") # input sample tex
+print([(ent.text, ent.label_) for ent in doc1.ents])
+
