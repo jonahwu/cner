@@ -1,0 +1,61 @@
+import json
+import re
+
+def matchLoc(text, key):
+    """
+    s = 'shak#spea#e'
+    c = '#'
+    print([pos for pos, char in enumerate(s) if char == c])
+    """
+    #s = '我是什麼啦'
+    #c = '什麼'
+    s = text
+    c = key
+    #inn=s.index(c)
+    try:
+        inn=re.search(c, s).start()
+        return (inn, inn+len(c))
+    except:
+        inn=None
+        return (0,0)
+    #print(inn)
+    return (0,0)
+    #print([pos for pos, char in enumerate(s) if char == c])
+
+def getTermElementWCJson(text, key, label):
+    s, e = matchLoc(text, key)
+    print(f'show start end: {s},{e}')
+    a={}
+    #a['entities']=[[3,5,'emotion']]
+    a['entities']=[[s,e,label]]
+    return [text,a]
+
+
+
+data = {
+    "president": {
+        "name": "Zaphod Beeblebrox",
+        "species": "Betelgeusian"
+    }
+}
+
+dataList=['我是什麼啦','什麼東西啦']
+
+
+ret=[]
+"""
+info='我就是恋爱了'
+key='aa'
+ret = getTermElementWCJson(info, key)
+"""
+for d in dataList:
+    info=d
+    key='什麼'
+    label='emotion'
+    dd = getTermElementWCJson(info, key, label)
+    ret.append(dd)
+
+data1=ret
+
+with open("data_file.json", "w",encoding='utf8' ) as write_file:
+    json.dump(data1, write_file, indent=4, ensure_ascii=False)

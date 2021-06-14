@@ -52,8 +52,11 @@ def test():
     print([(ent.text, ent.label_) for ent in doc1.ents])
 
 def run():
+    fp = open('./assets/inf.txt', "r")
+    line1 = fp.readlines()
     fp = open('testcopus.txt', "r")
-    lines = fp.readlines()
+    line2 = fp.readlines()
+    lines=line1+line2
     for line in lines:
         if len(line)>1:
             print('---------------------------------')

@@ -1,0 +1,494 @@
+
+
+
+
+  
+
+
+
+
+
+
+
+
+臺北市住宅竊盜點位資訊 - 資料集 - CKAN_20
+
+
+
+
+
+
+
+
+
+
+登入
+
+
+
+
+
+
+
+
+
+
+
+
+資料集組織群組關於
+
+
+
+
+搜尋資料集
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 首頁
+
+組織
+臺北市政府
+臺北市住宅竊盜點位資訊
+
+
+
+
+
+
+
+ 資料集
+ 群組
+ 動態牆
+ 關聯的
+
+
+
+
+      
+        臺北市住宅竊盜點位資訊
+        
+      
+    
+
+1.有關本次公開住宅竊盜、汽車竊盜、自行車竊盜、機車竊盜、搶奪與強盜等六種案類犯罪資料庫，開放資料因審酌不違反「個人資料保護法」、「政府資訊公開法」等相關規定，去除足以辨識民眾個資，僅提供案類、發生(現)日期 、發生時段、發生地點資料庫欄位(地址預先進行模糊處理)。
+   2.有關臺北市政府警察局首頁資訊公開臺北市各類刑案發破數據，因「他轄破本轄件數」暨「補報發生件數」非本（104~110）年度之件數，數據誤差甚大且隨時變動，補充敘明。
+
+
+
+
+
+資料與資源
+
+
+
+
+    臺北市104年1月-110年4月份住宅竊盜點位資訊CSV
+
+
+
+
+
+
+
+
+      探索
+      
+
+
+
+
+
+            預覽
+          
+        
+
+
+
+
+            下載
+          
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+住宅竊盜
+
+
+竊盜
+
+
+
+
+
+
+
+額外的資訊
+
+
+
+欄位
+值
+
+
+
+
+accrualPeriodicity
+每月
+
+
+authorized
+0
+
+
+categoryThemeId
+002
+
+
+contactEmail
+teng4324@tcpd.gov.tw
+
+
+contactName
+鄧皓允
+
+
+contactPhone
+02-23700693
+
+
+cost
+free
+
+
+costLaw
+無
+
+
+costURL
+無
+
+
+datasetMode
+2
+
+
+description
+臺北市104年1月-110年4月份住宅竊盜點位資訊
+
+
+detectFrequencyId
+monthly
+
+
+fieldDescription
+編號、案類、發生日期、發生時段、發生地點
+
+
+issued
+2021-05-11
+
+
+landingPage
+
+
+
+language
+zh
+
+
+licenseId
+4550e68f-6812-4a15-a2e2-f954eee779c5
+
+
+numberOfData
+
+
+
+orgId
+379130000C
+
+
+organizationContactEmail
+bee0506@police.taipei
+
+
+organizationContactName
+翁郁雯
+
+
+organizationContactPhone
+02-23883485
+
+
+organizationName
+臺北市政府警察局刑事警察大隊
+
+
+publishStatus
+1
+
+
+relatedUrl
+
+
+
+reviewStatus
+8
+
+
+spatial
+
+
+
+subOrgId
+379130200C
+
+
+temporalCoverageFrom
+
+
+
+temporalCoverageTo
+
+
+
+type
+原始資料
+
+
+
+
+
+
+
+
+
+
+
+
+
+臺北市住宅竊盜點位資訊
+
+
+追蹤者
+0
+
+
+
+
+
+
+
+
+
+
+ 組織
+
+
+
+
+
+
+臺北市政府
+此組織沒有任何說明
+
+
+
+
+
+ 社交
+
+ Google+
+ Twitter
+ Facebook
+
+
+
+
+
+
+
+
+
+
+
+
+
+關於CKAN_20
+
+
+CKAN API
+開放知識基金會
+
+
+
+
+Powered by CKAN
+
+
+語言
+
+
+        中文 (台湾)
+      
+
+        English
+      
+
+        português (Brasil)
+      
+
+        日本語
+      
+
+        italiano
+      
+
+        čeština (Česká republika)
+      
+
+        català
+      
+
+        español
+      
+
+        français
+      
+
+        Ελληνικά
+      
+
+        svenska
+      
+
+        Српски
+      
+
+        Norwegian
+      
+
+        slovenský
+      
+
+        suomi
+      
+
+        русский
+      
+
+        Deutsch
+      
+
+        polski
+      
+
+        Nederlands
+      
+
+        български
+      
+
+        한국어 (대한민국)
+      
+
+        magyar
+      
+
+        slovenščina
+      
+
+        latviešu
+      
+
+        Srpski (Latinica)
+      
+
+        Türkçe
+      
+
+        עברית
+      
+
+        العربية
+      
+
+        español (Argentina)
+      
+
+        فارسی (ایران)
+      
+
+        lietuvių
+      
+
+        English (Australia)
+      
+
+        українська (Україна)
+      
+
+        ភាសាខ្មែរ
+      
+
+        中文 (中国)
+      
+
+        Bahasa Indonesia
+      
+
+        ދިވެހިބަސް
+      
+
+        Tiếng Việt
+      
+
+        dansk (Danmark)
+      
+
+        íslenska
+      
+
+        română
+      
+
+        ဗမာ (မြန်မာ)
+      
+
+        shqipe
+      
+
+        Tiếng Việt (Việt Nam)
+      
+
+前往
+
+
+
+
+
+
+
+
+
