@@ -16,7 +16,7 @@ rm ./corpus -rf
  # start training chinese corpus
  sleep 2
  echo "start training"
- python -m spacy train ./content/ner_demo/configs/config.cfg --output ./content/ner_demo/training/ --paths.train ./content/ner_demo/corpus/train.spacy --paths.dev ./content/ner_demo/corpus/dev.spacy --training.eval_frequency 20 --training.max_steps 300
+ python -m spacy train ./content/ner_demo/configs/config.cfg --output ./content/ner_demo/training/ --paths.train ./content/ner_demo/corpus/train.spacy --paths.dev ./content/ner_demo/corpus/dev.spacy --training.eval_frequency 50 --training.max_steps 300
 sleep 3
 
 echo "start inference"
